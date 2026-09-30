@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "i-am-rich",
-    "slug": "i-am-rich",
+    "name": "BMI",
+    "slug": "BMI",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "iamrich",
+    "scheme": "bmi",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
